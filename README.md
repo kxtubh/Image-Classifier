@@ -1,2 +1,3 @@
-# LipNet
-An End to End lip translation deep learning model with some modifications of my own.
+# Image Classifier
+A binary image classifier that uses convolutional neural networks to classify any images into two classes
+
