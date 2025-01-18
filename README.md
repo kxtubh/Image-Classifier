@@ -12,9 +12,9 @@ This project is to serve as an introduction to CNNS and thier capabilities. The 
 ## Prerequisites
 
 This code requires the following Python libraries:
-* tensorflow
-* numpy
-* matplotlib
-* keras (included with tensorflow)
-* opencv
-* imghdr
+* Tensorflow
+* Numpy
+* Matplotlib
+* Keras (included with tensorflow)
+* Opencv
+* Imghdr
