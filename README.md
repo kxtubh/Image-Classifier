@@ -84,12 +84,12 @@ Ensure the following libraries and dependencies are installed:
   ```bash
   pip install opencv-python numpy tensorflow standard-imghdr mayplotlib
   ```
-
+---
 ## License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code.
 
 ---
-
-Feel free to reach out with suggestions or improvements!
+Feel free to reach out with suggestions or improvements! 
+Reference Video : (https://youtu.be/jztwpsIzEGc?si=_ziK1wDiBoPd5qpS)
 
 
