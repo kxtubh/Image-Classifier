@@ -4,7 +4,7 @@
 ---
 ## Overview
  
-This project is to serve as an introduction to CNNS and thier capabilities. The main classifer is a binary classifer which can classify two classes at a time. To classify more than two classes you will need to just uncomment a few lines in the jupyter notebook. As for the dataset, I have downloaded images using an extension called "Download All Images" (https://download-all-images.mobilefirst.me).
+This project is to serve as an introduction to CNNS and thier capabilities. The main classifer is a binary classifer which can classify two classes at a time. To classify more than two classes you will need to just uncomment a few lines in the jupyter notebook. As for the dataset, I have downloaded images using an extension called ["Download All Images"] (https://download-all-images.mobilefirst.me).
 
 ---
 
